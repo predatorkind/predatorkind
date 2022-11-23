@@ -6,6 +6,8 @@ To find out more about me and my side projects check out the below links:
 * [LinkedIn](http://www.linkedin.com/in/lukasz-trepinski-137436219)
 * [Google Play](https://play.google.com/store/apps/dev?id=8836038996939894677)
 
+<img src="logo.png" width="50">
+
 <!--
 **predatorkind/predatorkind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
