@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### Welcome to my GitHub profile!
+I am currently working on my protfolio to better showcase my skills publicly. Next time you come here you might find something new.
+
+To find out more about me and my side projects check out the below links:
+* [LinkedIn](http://www.linkedin.com/in/lukasz-trepinski-137436219)
+* [Google Play](https://play.google.com/store/apps/dev?id=8836038996939894677)
 
 <!--
 **predatorkind/predatorkind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
