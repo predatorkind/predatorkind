@@ -5,6 +5,7 @@ I am currently working on my protfolio to better showcase my skills publicly. Ne
 To find out more about me and my side projects check out the below links:
 * [LinkedIn](http://www.linkedin.com/in/lukasz-trepinski-137436219)
 * [Google Play](https://play.google.com/store/apps/dev?id=8836038996939894677)
+* [Website](https://www.vertexcode.net)
 
 <img src="logo.png" width="50">
 
